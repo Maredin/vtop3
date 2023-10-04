@@ -333,7 +333,7 @@ body {
 @media (max-width: 1300px) {
     .main__cirlce-2 {
         top: 198px;
-        animation: vidjet_2-v2 3s ease-in-out infinite alternate;
+        animation: vidjet_2-v2 4s ease-in-out infinite alternate;
     }
 }
 @media (max-width: 767px) {
@@ -342,7 +342,7 @@ body {
         top: 396px;
         transform: translatex(-250%);
         opacity: 0.5;
-        animation: vidjet_2-v3 3s ease-in-out infinite alternate;
+        animation: vidjet_2-v3 4s ease-in-out infinite alternate;
     }
 }
 @keyframes vidjet_2 {
@@ -382,7 +382,7 @@ body {
 @media (max-width: 1300px) {
     .main__cirlce-3 {
         top: 702px;
-        animation: vidjet_3-v2 3s ease-in-out infinite alternate;
+        animation: vidjet_3-v2 6s ease-in-out infinite alternate;
     }
 }
 @media (max-width: 767px) {
@@ -391,7 +391,7 @@ body {
         top: 394px;
         transform: translatex(258%);
         opacity: 0.5;
-        animation: vidjet_3-v3 3s ease-in-out infinite alternate;
+        animation: vidjet_3-v3 6s ease-in-out infinite alternate;
     }
 }
 @keyframes vidjet_3 {
