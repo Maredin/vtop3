@@ -260,8 +260,9 @@ body {
 }
 @media (max-width: 1600px) {
     .main {
-        margin-left: 2%;
-        margin-right: 2%;
+        overflow-x: hidden;
+        padding-left: 2%;
+        padding-right: 2%;
     }
 }
 
