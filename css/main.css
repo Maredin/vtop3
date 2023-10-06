@@ -260,7 +260,7 @@ body {
 }
 @media (max-width: 1600px) {
     .main {
-        overflow-x: hidden;
+        overflow: hidden;
         padding-left: 2%;
         padding-right: 2%;
     }
